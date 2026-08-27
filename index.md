@@ -5,3 +5,4 @@ all things modern warfare 4 (2026)
 ## this is where things go about the game
 the open beta starts in on 8/28/2026 @ 1PM EST
 
+<a href="https://legionoftheorb.github.io/">back</a>
